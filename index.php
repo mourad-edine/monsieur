@@ -8,7 +8,7 @@ require_once('./component/header.php')
         <h1 class="title">Descriptions de notre société</h1>
         <div class="img-desc">
             <div class="right">
-                <h3>Nous somme une société qui essaye d'innover dans le domaine du developpement personnelle et de la
+                <h3>Nous somme une société qui innove dans le domaine du developpement personnelle et de la
                     programmation informatique.</h3>
                 <p style="font-size: 12px;">Reflet HQD est une startup de prestation de service, qui sont la formation professionnelle et le développement informatique</p>
                 <div>

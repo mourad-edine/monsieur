@@ -1,34 +1,33 @@
-<footer class="" style="font-size: 16px;">
+<footer class="" style="font-size: 16px; background : #222;">
         <div class="container p-4">
             <div class="row">
                 <div class="col-2">
 
                 </div>
                 <div class="col-7">
-                    <span style="font-weight: bold; color : white">RefletHQD</span> <br><a
-                        href="http://www.univ-toamasina.mg/" data-toggle="tooltip" title="visitez">7 rue george washington, Ampasimazava Est</a>
+                    <span style="font-weight: bold; color : red">RefletHQD</span> <br>
+                    <p class="text-white">7 rue george washington, Ampasimazava Est</p>
                     <div class="pt-3">
-                        <small>
-                            <a href="mailto:reflethqd@gmail.com">
-                                <i class="fas fa-envelope mr-1"
-                                    id="info_footer"></i>reflethqd@gmail.com</a></small><br>
-                        <small class="text-white">+261 34 98 077 33<br></small>
+        
+                            <a href="mailto:reflethqd@gmail.com" class="text-white">
+                                reflethqd@gmail.com</a><br>
+                        <p class="text-white">+261 34 98 077 33<br></p>
                     </div>
 
                     <div class="mt-4 lien_fb">
                         <h6 class="text-white text-uppercase">Suivez-nous sur les reseau</h6>
                         <small><br>
                             <i class="fab fa-facebook mr-2"></i>
-                            <a href="reflethqd@gmail.com">Reflet HQD</a>
+                            <a href="mailto:reflethqd@gmail.com" class="text-info">Reflet HQD</a>
                         </small>
                     </div>
                 </div>
-                <div class="col-3" id="partenaire">
-                    <span style="font-weight: bold;color : white">reseau sociaux</span>
-                    <ul class="list-unstyled list-inline pt-2" id="info_footer">
-                        <li><a href="http://www.port-toamasina.com/">facebook</a></li>
-                        <li><a href="http://www.mesupres.gov.mg/">twitter</li>
-                        <li><a href="http://www.smmc-company.com">linkedin</a></li>
+                <div class="col-3 " id="partenaire">
+                    <span style="font-weight: bold;color : red">reseau sociaux</span>
+                    <ul class="list-unstyled list-inline pt-2">
+                        <li><a href="#" class=" text-white">facebook</a></li>
+                        <li><a href="#" class=" text-white">twitter</li>
+                        <li><a href="#" class=" text-white">linkedin</a></li>
                         <li>
                     </ul>
                 </div>
@@ -49,6 +48,7 @@
                 menu.classList.toggle('responsive')
             }
         </script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
 
 </body>

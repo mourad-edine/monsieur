@@ -89,7 +89,7 @@ require_once('./component/header.php');
                     <div>
                         <h4>formation en Entreprenariat</h4>
                         <p>cette formation est dédiée aux porteurs de projet, aux entrepreneurs, et aux particuliers qui veulent accroitre leur niveau de compétence professionnel</p>
-                        <a href="entrepreneur.php" class="btn-resevation">en savoir plus</a>
+                        <a href="entrepreneur.php" class="btn-reservation">en savoir plus</a>
                     </div>
                 </div>
             </div>

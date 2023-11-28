@@ -16,7 +16,7 @@
 
     <header>
         <div class="logo">
-            <a href="index.html"> <span>RefleHQD</span><img src="./images/logo.jpg" alt="" width="40" height="40"></a>
+            <a href="index.php"> <span>RefleHQD</span><img src="./images/logo.jpg" alt="" width="40" height="40"></a>
         </div>
         <ul class="menu">
             <li><a href="index.php">Acceuil</a></li>

@@ -412,9 +412,6 @@ footer p span {
     header .menu {
         display: none;
     }
-    .btn-reservation {
-        display: none;
-    }
     /*Home responsive*/
     #home h2 {
         font-size: 18px;

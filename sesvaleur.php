@@ -16,7 +16,7 @@ require_once('./component/header.php')
                     <li>polyvalence</li>
                 </ol>
                 <p>Reflet HQD est une startup de prestation de service, qui sont la formation professionnelle et le développement informatique</p>
-                <a href="#">retour</a>
+                <a href="services.php" class="btn-reservation">retour</a>
             </div>
         </div>
 
