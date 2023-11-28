@@ -108,6 +108,18 @@ header  .logo a span {
     position: relative;
 }
 
+#te {
+    background: linear-gradient(rgba(0,0,0,0.1),#333), url("images/te.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
 #test {
     background: linear-gradient(rgba(0,0,0,0.1),#333), url("images/contact.jpg");
     background-position: center;
@@ -120,6 +132,14 @@ header  .logo a span {
     position: relative;
 }
 #home h2 {
+    font-size: 45px;
+    margin-bottom: 10px;
+    -webkit-text-stroke: #fff 0.02px;
+    color: transparent;
+    text-transform: lowercase;
+}
+
+#te h2 {
     font-size: 45px;
     margin-bottom: 10px;
     -webkit-text-stroke: #fff 0.02px;
@@ -141,6 +161,13 @@ header  .logo a span {
     text-transform: capitalize;
 }
 
+#te h4 {
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
 #test h4 {
     font-size: 50px;
     color: #fff;
@@ -153,12 +180,22 @@ header  .logo a span {
     font-size: 12px;
 }
 
+#te p {
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
 #test p {
     color: #fff;
     margin-bottom: 10px;
     font-size: 12px;
 }
 .home-btn {
+    margin-bottom: 20px;
+}
+
+.te-btn {
     margin-bottom: 20px;
 }
 
@@ -334,7 +371,7 @@ header  .logo a span {
 /* Contact CSS */
 #contact {
     padding: 0 10%;
-    margin-bottom: -300px;
+
     height: 90vh;
 }
 
