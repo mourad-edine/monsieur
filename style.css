@@ -396,7 +396,7 @@ header  .logo a span {
 .left-right .left , .left-right .right  {
     display: flex;
     flex-direction: column;
-    width: 49%;
+    width: 100%;
 }
 
 
