@@ -97,7 +97,7 @@ header  .logo a span {
 /* Home acceuil CSS */
 
 #home {
-    background: linear-gradient(rgba(0,0,0,0.1),#333), url("images/mr.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333), url("../images/mr.jpg");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -302,7 +302,7 @@ header  .logo a span {
     font: 14px;
     margin-bottom: 36px;
 }
-.img-desc .right a {
+.img-desc .right {
     border: 1px solid #29d9d5;
     color: #29d9d5;
     font-size: 14px;

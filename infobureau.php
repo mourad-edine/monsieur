@@ -22,8 +22,8 @@ require_once('./component/header.php')
                     <li>cours sur Microsoft Access
                     </li>
                 </ol>
-                <p>Reflet HQD est une startup de prestation de service, qui sont la formation professionnelle et le développement informatique</p>
-                <a href="#">retour</a>
+                <p style="font-size: 12px;">Reflet HQD est une startup de prestation de service, qui sont la formation professionnelle et le développement informatique</p>
+                <a href="services.php" class="btn-reservation">retour</a>
             </div>
         </div>
 

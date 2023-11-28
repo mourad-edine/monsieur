@@ -37,7 +37,7 @@ textarea {
     padding: 10px;
 }
 #contact form input:focus , textarea:focus {
-    border: 1px solid #29d9d5;
+    border: 1px solid #BE3144;
 }
 iframe {
     height: 150px;
@@ -66,8 +66,14 @@ iframe {
             </div>
             <div class="right">
                 <h3>Besoin d'aide? Nous sommes là pour vous</h3>
-                <p>Bienvenue sur notre page de contact chez [Nom de votre entreprise]. Votre satisfaction est notre priorité absolue, et nous sommes là pour répondre à toutes vos questions, préoccupations ou demandes d'assistance.</p>
-                <a href="#">retour</a>
+                <p>Bienvenue sur notre page de contact chez <span class="text-danger">RefleHQD</span>. Votre satisfaction est notre priorité absolue, et nous sommes là pour répondre à toutes vos questions, préoccupations ou demandes d'assistance.</p>
+                <div>
+                    <ul>
+                        <li>
+                        <a href="index.php" class="btn btn-danger text-white" style="font-size: 20px;">revenir à l'accueil</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
 

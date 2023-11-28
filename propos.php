@@ -8,8 +8,7 @@ require_once('./component/header.php')
         <div class="img-desc">
             <div class="right">
                 <h3>L’entrepreneuriat est un processus de création d’une entreprise pour chercher des opportunités dans un marché potentiel. En voyant que son business fonctionne bien et en constatant que le marché de la formation professionnelle est encore un marché libre d’accès, Eric Florent RAHARINIRINA a commencé à améliorer ses canaux de communication par des prospections des clients et a formé une équipe pour Reflet en novembre 2019. Un Start up de formation professionnelle en mettant en premier place la formation des langues étrangères, </h3>
-                <p>l’anglais et le français, qui sont des moyens de communication très important dans le monde professionnel. Grace à son parcours universitaire, diplômé en ingénierie informatique, il a ajouté à son offre le développement informatique et renommé Reflet en « Reflet HQD ou Reflet High Quality Development </p>
-                <a href="#">Lire Plus</a>
+                <p style="font-size: 18px;"><span class="text-danger">l’anglais</span> et <span class="text-danger">le français</span> , qui sont des moyens de communication très important dans le monde professionnel. Grace à son parcours universitaire, diplômé en ingénierie informatique, il a ajouté à son offre le développement informatique et renommé Reflet en « Reflet HQD ou Reflet High Quality Development </p>
             </div>
         </div>
 
@@ -20,7 +19,7 @@ require_once('./component/header.php')
         <div class="wrapper option-1 option-1-1">
             <ol class="somme">
               <li class="somme__item m-4">
-                <h3 class="somme__title">évenment 1</h3>
+                <h3 class="somme__title">évenement 1</h3>
                 <p class="somme__desc">En 2019, Reflet HQD fait un don de logiciel de gestion de paiement de cotisation mensuelle à l’Aumônerie Protestante Universitaire </p>
               </li>
               <li class="somme__item m-4">
@@ -54,9 +53,8 @@ require_once('./component/header.php')
                 <div class="content">
                     <div>
                         <h4>Open days</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                        <p>Ea iusto ipsa repudiandae amet conseq.</p>
-                        <a href="#">Lire Plus</a>
+                        <p>Des Entreprises, startups et professionnels dans ce domaine sont prêt à vous rencontrer et exposer ce qu'ils font, également, partager leurs expériences, surtout entendre vos points de vue et conseils.</p>
+                        <a href="https://www.facebook.com/ongjademadagascar/posts/pfbid02U1E1qq6CXY6v73BC78Yzh54iNgKpk8S6XbPtFiA6J1BNRY5xNoogY9jWJG2RB7U8l">Lire Plus</a>
                     </div>
                 </div>
             </div>
@@ -67,9 +65,8 @@ require_once('./component/header.php')
                 <div class="content">
                     <div>
                         <h4>Rendez vous des entrepreneurs</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                        <p>Ea iusto ipsa repudiandae amet conseq.</p>
-                        <a href="#">Lire Plus</a>
+                        <p>là où tout les entrepreneurs se donnent rendez vous pour faire des echanges que ce soit , en matière d'experience ou de parler de pla futur</p>
+                        <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid05mtfvMb7dPrpAD9SBRkzYKwNsgFk43LRtLhiyQdMHStYDEwUxQUCHuZSFGniTTazl&id=100064422294848">Lire Plus</a>
                     </div>
                 </div>
             </div>

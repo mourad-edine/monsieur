@@ -9,7 +9,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <title>RefleHQD</title>
     <link rel="shortcut icon" href="./images/reflet.ico" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
@@ -28,10 +28,10 @@
     </header>
     <!-- acceuil section -->
     <section id="home">
-        <h4>The exelence is our duty</h4>
+        <h4>THE EXCELENCE <span class="text-danger"> IS OUR DUTY</span></h4>
         <p>reussite perceverance polyvalence excelence </p>
         <p>Nous sommes là pour vous guider dans un monde meilleur</p>
-        <a href="#" class="btn-reservation home-btn">nous contacter</a>
+        <a href="contact.php" class="btn-reservation home-btn">nous contacter</a>
         <div class="find_trip">
             <a href="propos.php" class="bout">historiques</a>
             <a href="sesmission.php" class="bout">ses missions</a>
